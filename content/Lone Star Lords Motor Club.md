@@ -2,9 +2,7 @@
 title: Template for Knowledge Base Docs Websites
 ---
 ## The index page
-
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
+We're a motor club that consist of any vehicle pre-1967, and all makes and models
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
