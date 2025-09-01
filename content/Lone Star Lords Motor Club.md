@@ -5,11 +5,11 @@
 We're a motor club that consist of any vehicle pre-1967, and all makes and models
 ## Main Categories
 
-- [[origin/Origin|Origin]]
-- [[Members]]
-- [[Criteria]]
-- [[Community involvement]]
-- [[Vehicles]]
+* [[origin/index|Origin]]
+* [[criteria/index|Criteria]]
+* [[community/index|Community]]
+* [[members/index|Members]]
+* [[vehicles/index|Vehicles]]
 
 
 
