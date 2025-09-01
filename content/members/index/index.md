@@ -1,3 +1,3 @@
 ---
-title: list all members name sand years active
+title: list all members names and years active
 ---
