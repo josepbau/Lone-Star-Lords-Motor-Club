@@ -1,1 +1,0 @@
-List criteria needed to join club

@@ -1,1 +1,0 @@
-Describe how club started, year, the founders, location
