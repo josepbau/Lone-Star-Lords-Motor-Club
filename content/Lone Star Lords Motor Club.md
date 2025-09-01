@@ -1,9 +1,17 @@
 ---
-title: Template for Knowledge Base Docs Websites
+"##Main Categories":
 ---
 ## The index page
 We're a motor club that consist of any vehicle pre-1967, and all makes and models
-## Editing pages
+## Main Categories
+
+- [[origin/Origin|Origin]]
+- [[Members]]
+- [[Criteria]]
+- [[Community involvement]]
+- [[Vehicles]]
+
+
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
 
