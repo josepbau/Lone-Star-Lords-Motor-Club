@@ -9,6 +9,8 @@
 - *Burnout Contest - winner gets 2 free tires
 - *Free beer- courtesy of our sponsor, Lone Star Beer (donations accepted)
 - *Pinup Contest
-- Chili cook-off
+- *Chili cook-off
 
 
+
+![[36bef112-f454-4cef-9fa3-9095262377e0.jpeg]]
