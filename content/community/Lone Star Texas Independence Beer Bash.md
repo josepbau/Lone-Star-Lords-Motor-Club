@@ -10,4 +10,30 @@
 - *Free beer- courtesy of our sponsor, Lone Star Beer (donations accepted)
 - *Pinup Contest
 - *Chili cook-off
-![[36bef112-f454-4cef-9fa3-9095262377e0 1.jpeg]]![[d3855acf-f04b-4af0-a1d7-2c5b69325a26.jpeg]]
+![[36bef112-f454-4cef-9fa3-9095262377e0 2.jpeg]]
+
+![[d3855acf-f04b-4af0-a1d7-2c5b69325a26 1.jpeg]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
