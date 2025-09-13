@@ -3,7 +3,7 @@ Breast Cancer Awareness month, also referred to in the U.S. as National Breast C
 - **Each year the club votes on which member's vehicle will be the face for that year's campaign**
 - **Front and Back design for shirt print is voted on and submitted to print shop for a run of 250, distribution date TBD.**
 - **All shirts sold every weekend during the months of September and October by members at car meets, bars, and swap meets.**
-- **Cost $20, sizes available S,M, L, and XL. (sizes XXL, XXXL-additional $5, must be pre-ordered and paid in advance)**
+- **Sizes available S,M, L, and XL- Cost $20 (sizes XXL, XXXL-additional $5, must be pre-ordered and paid in advance)**
 
 
 ![[D12C515F-4C6F-4FF9-AC44-A47BBC259F25.jpeg]]
