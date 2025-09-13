@@ -2,12 +2,14 @@
 
 **The best part of the Christmas Tree run is delivering these trees to designated low income or underprivileged families who have been nominated by close friend's and family of the club.  For the most part we ask that it usually be someone who we don't particularly know so it has more of an impact on the family.  Each tree is delivered along with Christmas lights, ornaments, extension cords, and a tree stand, all provided by one club member and their family. This event would not be possible without the donations from Home Depot and their staff for allowing us to repurpose these trees that they seem unfit.
 
-## **_Christmas Tree Run Agenda_**
-- **_Arrive at Home Depot (5PM)_**
-- **_Club members trim, prune, and bail Christmas Trees (530PM-*630PM)_**
-- **_Members receive family names and address and tie trees to roofs of vehicles (630PM-700PM)_**
-- **_Formation and Road Captain briefing on routes and family order for delivery (700PM-730PM)_**
-- **_Hit the road for downtown Cruise (730PM)_**
+## **_Christmas Tree Run Tentative Schedule_**
+
+-  **_Arrive at Home Depot (5PM)_**
+-  **_Club members trim, prune, and bail Christmas Trees (530PM-*630PM)_**
+-  **_Members receive family names and address and tie trees to roofs of vehicles (630PM-700PM)_**
+-  **_Formation and Road Captain briefing on routes and family order for delivery (700PM-730PM)_**
+-  **_Hit the road for downtown Cruise (730PM-830PM)_**
+- **_Deliver Trees to families (830PM-1000PM)
 
 
 ![[2b6595a2-58b4-41fa-bc46-34faea3fb738 1.jpeg]]
