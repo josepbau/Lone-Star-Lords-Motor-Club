@@ -5,4 +5,4 @@
 **This event is also a good time to invite other clubs to join and meet up for a good cause and to network. The addition of the other clubs makes for a larger event for the kids to enjoy.**
 
 
-![[CB91E11A-52DA-40A4-95BA-99ADC53E5616.jpeg]]
+![](../../CB91E11A-52DA-40A4-95BA-99ADC53E5616%201.jpeg)
