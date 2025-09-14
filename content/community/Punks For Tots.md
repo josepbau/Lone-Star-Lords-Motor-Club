@@ -5,7 +5,7 @@
 **Our club has been assigned a family in the past, where we have provided toys and gifts so they may experience an enjoyable Christmas and have some gifts to give to their children this holiday season.** 
 
 ## Accepted Donations ##
->-*Toys*
+> -*Toys*
 >- *Books 
 >-* *Bicycles
 >- Clothes
