@@ -11,7 +11,7 @@
 >- *Pinup Contest*
 >- *Chili cook-off*
 
-![Texas Indep](../../Texas%20Indep.jpeg)]
+![Texas Indep](../../Texas%20Indep.jpeg)
 
 
 
