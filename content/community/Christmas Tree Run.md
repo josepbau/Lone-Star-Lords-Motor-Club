@@ -4,12 +4,12 @@
 
 ## **_Christmas Tree Run Tentative Schedule_**
 
--  **_Arrive at Home Depot (5PM)_**
--  **_Club members trim, prune, and bail Christmas Trees (530PM-*630PM)_**
--  **_Members receive family names and address and tie trees to roofs of vehicles (630PM-700PM)_**
--  **_Formation and Road Captain briefing on routes and family order for delivery (700PM-730PM)_**
--  **_Hit the road for downtown Cruise (730PM-830PM)_**
--  **_Deliver Trees to families (830PM-1000PM)_** 
+>-  **_Arrive at Home Depot (5PM)_**
+>-  **_Club members trim, prune, and bail Christmas Trees (530PM-*630PM)_**
+>-  **_Members receive family names and address and tie trees to roofs of vehicles (630PM-700PM)_**
+>-  **_Formation and Road Captain briefing on routes and family order for delivery (700PM-730PM)_**
+>-  **_Hit the road for downtown Cruise (730PM-830PM)_**
+>-  **_Deliver Trees to families (830PM-1000PM)_** 
 
 
 ![[2b6595a2-58b4-41fa-bc46-34faea3fb738 1.jpeg]]
