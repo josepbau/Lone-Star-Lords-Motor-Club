@@ -10,9 +10,9 @@
 >- *Free beer- courtesy of our sponsor, Lone Star Beer (donations accepted)*
 >- *Pinup Contest*
 >- *Chili cook-off*
-![](../../Texas%20Indep.jpeg)
 
 
+![Maroon40Ford](../../Maroon40Ford.jpg)/Maroon40Ford.jpg)
 
 
 
