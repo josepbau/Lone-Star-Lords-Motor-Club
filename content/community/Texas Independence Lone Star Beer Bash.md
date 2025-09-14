@@ -11,8 +11,7 @@
 >- *Pinup Contest*
 >- *Chili cook-off*
 
-
-![Maroon40Ford](../../Maroon40Ford.jpg)/Maroon40Ford.jpg)
+![](../../Texas%20Indep.jpeg)
 
 
 
