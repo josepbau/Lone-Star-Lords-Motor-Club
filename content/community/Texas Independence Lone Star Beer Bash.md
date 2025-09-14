@@ -10,9 +10,8 @@
 >- *Free beer- courtesy of our sponsor, Lone Star Beer (donations accepted)*
 >- *Pinup Contest*
 >- *Chili cook-off*
-![](../../filthystotys%201.jpeg)
 
-
+![](../../Maroon%2040%20Ford.jpg)
 
 
 
