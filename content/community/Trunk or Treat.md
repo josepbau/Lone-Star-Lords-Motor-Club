@@ -2,6 +2,6 @@
 
 **Trunk or Treats are a fun way to showcase our rides along with giving back to our community. The main purpose of this is event is to  provide a safe and controlled environment for the kiddos to walk around freely, trick or treat, visit all the cars and members, and fill their goodie bags.** 
 
-**This event is also a good time to invite other clubs to join and meet up for a good cause and to network. The addition of the other clubs makes for a larger event and more participants to hand out more treats for the kids to enjoy.  We also use the event to promote our upcoming events, such as Punks for Tots, Christmas Tree Run, and the Texas Independence Lone Star Beer Bash** 
+**This event is also a good time to invite other clubs to join and meet up for a good cause and to network. The addition of the other clubs makes for a larger event and more participants to hand out more treats for the kids to enjoy.  We also use the event to promote our upcoming events, such as Punks for Tots, Christmas Tree Run, and the [Texas Independence Lone Star Beer Bash](Texas%20Independence%20Lone%20Star%20Beer%20Bash.md).**
 
  ![trunk](../trunk.jpeg) 

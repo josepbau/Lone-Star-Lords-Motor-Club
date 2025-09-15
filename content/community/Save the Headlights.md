@@ -8,7 +8,7 @@ Our club chose to team up and donate all our proceeds from the sale of our t-shi
 
 
 >- **Each year the club votes on which member's vehicle will be the face for that year's campaign**
->- **Front and Back design for shirt print is voted on and submitted to print shop for a run of 150, distribution date TBD.**
+>- **Front and Back design for shirt print is voted on and submitted to print shop for a run of 150, shirts paid with funds raised by [Texas Independence Lone Star Beer Bash](Texas%20Independence%20Lone%20Star%20Beer%20Bash.md), distribution date TBD.**
 >- **All shirts sold every weekend during the months of September and October by members at car meets, bars, and swap meets.**
 >- **Sizes available S,M, L, and XL- Cost \$25.00  (*sizes XXL, XXXL-additional \$5.00, must be pre-ordered and paid in advance*)**
 >- **Yearly proceeds usually average about \$2500** 
