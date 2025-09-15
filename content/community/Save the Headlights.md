@@ -10,8 +10,8 @@ Our club chose to team up and donate all our proceeds from the sale of our t-shi
 >- **Each year the club votes on which member's vehicle will be the face for that year's campaign**
 >- **Front and Back design for shirt print is voted on and submitted to print shop for a run of 100, distribution date TBD.**
 >- **All shirts sold every weekend during the months of September and October by members at car meets, bars, and swap meets.**
->- **Sizes available S,M, L, and XL- Cost \\\$25.00 (sizes XXL, XXXL-additional \\$5, must be pre-ordered and paid in advance)**
->- **Yearly proceeds usually average about \\$2500** 
+>- **Sizes available S,M, L, and XL- Cost \\$25.00 (sizes XXL, XXXL-additional \$5, must be pre-ordered and paid in advance)**
+>- **Yearly proceeds usually average about \$2500** 
 
 ![donationcheck](../donationcheck.jpeg)   
 ![[D12C515F-4C6F-4FF9-AC44-A47BBC259F25.jpeg]]
