@@ -19,7 +19,7 @@ The Texas Independence Lone Star Beer Bash serves as our biggest fundraising eve
 
 ![Lords](../Lords.jpeg) 
 
-[[assets/index|LoneStarLordsMotorClub]]
+![lone star lords](../assets/lone%20star%20lords.jpeg) 
 
 
 

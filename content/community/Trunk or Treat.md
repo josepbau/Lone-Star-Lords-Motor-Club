@@ -5,4 +5,6 @@
 **This event is also a good time to invite other clubs to join and meet up for a good cause and to network. The addition of the other clubs makes for a larger event and more participants to hand out more treats for the kids to enjoy.  We also use the event to promote our upcoming events, such as Punks for Tots, Christmas Tree Run, and the [Texas Independence Lone Star Beer Bash](Texas%20Independence%20Lone%20Star%20Beer%20Bash.md).**
 
  ![trunk](../trunk.jpeg)
+  ![demo20065](../assets/demo20065.pdf) 
+  
   ![jessetrunk](../jessetrunk.jpeg)![prestrunk](../prestrunk.jpeg)![arnold trunk](../arnold%20trunk.jpeg)
