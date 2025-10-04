@@ -9,4 +9,6 @@
 	* 2. 1930 Model A
 	* 3. 1948 Ford Business Coupe
 
-![jefeprofile](../assets/jefeprofile.png)
+![jefecaptain](../assets/jefecaptain.jpg)
+
+![jefeprofile2](../assets/jefeprofile2.jpg)
