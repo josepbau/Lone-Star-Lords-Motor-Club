@@ -11,4 +11,6 @@ Chuy's a very diverse member who has all three types of vehicles.  He's one of t
 
 
 
-![IJESSESRIDES](../assets/IJESSESRIDES.jpg)]
+![IJESSESRIDES](../assets/IJESSESRIDES.jpg)
+
+![chuys harley](../assets/chuys%20harley.jpeg)
