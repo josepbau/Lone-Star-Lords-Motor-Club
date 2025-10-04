@@ -4,11 +4,9 @@
 * Married w/ 3 Daughters and 1 Son- [Zander (Zander)](Zander%20(Zander).md)
 * Pets-1 Dog and 1-Potbelly Pig named RoRo
 * Dream Car- Varies- "Every car is a dream car! Depends on what day it is..."
-* Member for 21 years
-* Owns 3 Cars but technically has about 10 project vehicles 
-	* 1. 1954 Oldsmobile
-	* 2. 1930 Model A
-	* 3. 1948 Ford Business Coupe
+* Member for 21 years [Jefe's Ride](../vehicles/Jefe's%20Ride.md)
+
+
 
 ![jefecaptain](../assets/jefecaptain.jpg)
 

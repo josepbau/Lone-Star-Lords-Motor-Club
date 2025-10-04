@@ -9,3 +9,5 @@ Chang is also another member with the trifecta in his fleet just like [Club Vice
 ![joesharley](../assets/joesharley.JPG)
 
 ![49shoebox](../assets/49shoebox.jpg)
+![shobox2](../assets/shobox2.jpg)
+
