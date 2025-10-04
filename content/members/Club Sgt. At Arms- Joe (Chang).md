@@ -8,3 +8,4 @@
 	* 2. 1949 Ford Shoebox 2 Door Coupe
 	* 3. 2001 Harley Davidson Sportster 883 Bobber
 
+![chang profile](../assets/chang%20profile.jpeg) 
