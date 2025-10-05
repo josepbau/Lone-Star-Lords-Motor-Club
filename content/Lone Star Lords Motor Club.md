@@ -31,10 +31,4 @@ Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdow
 
 Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
 
