@@ -37,12 +37,4 @@ iA Writer is a professional tool for writing documents using Markdown. It is a p
 
 Link: [https://ia.net/writer](https://ia.net/writer)
 
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
